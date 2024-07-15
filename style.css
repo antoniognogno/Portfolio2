@@ -44,6 +44,9 @@
     font-size: 3rem;
 }
 
+.subtitle {
+    font-size: 1.5rem;
+}
 .section:nth-child(even) {
     background-color: #f0f0f0;
 }
@@ -58,7 +61,7 @@
     bottom: 1rem;
     right: 1rem;
     display: none;
-    background-color: #f0f0f0;
+    background-color:#f0f0f0;
     color: black;
     border-radius: 9999px;
     padding: 0.5rem;
@@ -70,6 +73,6 @@
 }
 
 .scroll-to-top:hover {
-    background-color: #8c8c8c;
+    background-color: #c0c0c0;
     color: #f0f0f0;
 }
